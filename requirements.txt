@@ -1,0 +1,2 @@
+#reuirements
+snowflake-connector-python
